@@ -1,5 +1,5 @@
 # Arraywalker
 
-# Usage
+## Usage
 
 Control with 'wasd' through the labyrinth
